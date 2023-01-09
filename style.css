@@ -1,0 +1,25 @@
+.container{
+    font-family: sans-serif;
+    width: 400px;
+    margin: 50px auto;
+}
+.btn{
+    padding: 16px 38px;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+input{
+    border: 1px solid lightgray;
+    padding:17px;
+    margin-bottom:12px ;
+    font-size:17px ;
+    width:100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
